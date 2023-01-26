@@ -1,3 +1,3 @@
 # SJ Clone 2023 update
 
-css got so much better!
+Html and CSS are so much fun!
